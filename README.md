@@ -1,16 +1,43 @@
-## Hi there 👋
-aditya
-<!--
-**Aditya03N/Aditya03N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Aditya
 
-Here are some ideas to get you started:
+🎓 Engineering Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about building real-world software projects and learning modern technologies step by step.
+
+## 🔭 Current Focus
+
+* AI-Based Online Exam Proctoring System
+* Full Stack Web Development
+* Backend Development with Flask
+* Computer Vision & AI Integration
+
+## 🌱 Currently Learning
+
+* Flask & SQLAlchemy
+* OpenCV & MediaPipe
+* Frontend Development
+* Database Management
+
+## 💡 Projects
+
+### 🤖 AI-Based Online Exam Proctoring System
+
+An intelligent online examination platform that monitors students using AI and Computer Vision.
+
+**Tech Stack:** Python · Flask · OpenCV · MediaPipe · SQLAlchemy
+
+**Features:**
+
+* Real-time face monitoring
+* Suspicious activity detection
+* Warning generation system
+* Admin dashboard
+* Exam history tracking
+
+## 📫 Connect With Me
+
+* GitHub: Aditya03N
+
+## ⚡ Fun Fact
+
+I enjoy turning creative ideas into real software projects and continuously improving my development skills.
