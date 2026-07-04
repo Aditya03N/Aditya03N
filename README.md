@@ -6,14 +6,15 @@ I’m passionate about building real-world software projects and learning modern
 
 ## 🔭 Current Focus
 
-* AI-Based Online Exam Proctoring System
 * Full Stack Web Development
+* Learning Mern Stack
 * Backend Development with Flask
 * Computer Vision & AI Integration
 
 ## 🌱 Currently Learning
 
 * Flask & SQLAlchemy
+* react and mongoose
 * OpenCV & MediaPipe
 * Frontend Development
 * Database Management
