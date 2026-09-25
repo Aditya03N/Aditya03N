@@ -1,44 +1,109 @@
-# Hi there 👋 I'm Aditya
+# Hi, I'm Aditya 👋
 
-🎓 Engineering Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast
+🎓 B.Tech AI & ML Student | 💻 Aspiring Software Developer | 🚀 Full-Stack Developer
 
-I’m passionate about building real-world software projects and learning modern technologies step by step.
+I build practical software projects using modern web technologies and enjoy integrating AI into real-world applications.
 
 ## 🔭 Current Focus
 
-* Full Stack Web Development
-* Learning Mern Stack
-* Backend Development with Flask
-* Computer Vision & AI Integration
+* Full-Stack Web Development
+* Backend Development
+* Data Structures & Algorithms
+* AI Integration in Software Applications
+* Building and deploying real-world projects
 
-## 🌱 Currently Learning
+## 🛠️ Tech Stack
 
-* Flask & SQLAlchemy
-* react and mongoose
-* OpenCV & MediaPipe
-* Frontend Development
-* Database Management
+**Languages:**
+JavaScript · Python · HTML · CSS
 
-## 💡 Projects
+**Frontend:**
+React · Next.js · Tailwind CSS
+
+**Backend:**
+Node.js · Express.js · Flask
+
+**Databases:**
+MongoDB · Mongoose · SQL · SQLAlchemy
+
+**AI & Computer Vision:**
+OpenCV · MediaPipe · Generative AI
+
+**Tools:**
+Git · GitHub · REST APIs · Socket.IO
+
+## 💡 Featured Projects
 
 ### 🤖 AI-Based Online Exam Proctoring System
 
-An intelligent online examination platform that monitors students using AI and Computer Vision.
+An AI-powered online examination system that uses computer vision to monitor candidates during exams.
 
-**Tech Stack:** Python · Flask · OpenCV · MediaPipe · SQLAlchemy
+**Tech Stack:** Python · Flask · OpenCV · MediaPipe · JavaScript
 
 **Features:**
 
 * Real-time face monitoring
+* Multiple-face detection
 * Suspicious activity detection
-* Warning generation system
+* Warning generation
 * Admin dashboard
 * Exam history tracking
 
+---
+
+### 🧠 Remind-AI — Knowledge Decay Detection
+
+An AI-powered revision and retention system designed to identify concepts a student may be forgetting and provide targeted knowledge checks.
+
+**Tech Stack:** Next.js · React · Node.js · Express.js · MongoDB · Gemini AI
+
+**Features:**
+
+* AI-generated quizzes
+* Knowledge/retention assessment
+* Concept-based revision
+* Spaced-repetition workflow
+* AI-powered learning assistance
+
+---
+
+### 📝 Quiz & Polling Platform
+
+A real-time quiz and polling platform that allows hosts to create interactive quizzes and participants to join without creating an account.
+
+**Tech Stack:** React · Node.js · Express.js · MongoDB · Socket.IO · JWT
+
+**Features:**
+
+* Real-time quizzes and polls
+* Shareable quiz links
+* QR-based joining
+* Live rankings
+* Timers
+* Real-time results
+
+## 📚 Currently Improving
+
+* Data Structures & Algorithms
+* Backend Development
+* System Design Fundamentals
+* Next.js & TypeScript
+* Cloud & Deployment
+
+## 🎯 Career Interests
+
+I'm currently looking for opportunities in:
+
+* Software Development
+* Full-Stack Development
+* Backend Development
+* AI-integrated Software Development
+
 ## 📫 Connect With Me
 
-* GitHub: Aditya03N
+* GitHub: [Aditya03N](https://github.com/Aditya03N)
+* LinkedIn: [Add your LinkedIn profile here]
 
-## ⚡ Fun Fact
+---
 
-I enjoy turning creative ideas into real software projects and continuously improving my development skills.
+⚡ I enjoy turning ideas into working software and continuously improving through projects and problem solving.
